@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "declaration": true,
+      "target": "ES6",
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "sourceMap": true, // Enable source maps
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "./dist",
+      "resolveJsonModule": true,
+      "noEmitOnError": true,
+      "types": ["jasmine"]
+    },
+    "include": [
+      "src/**/*",
+      "test/**/*"
+    ]
+  }
+  

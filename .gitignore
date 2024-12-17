@@ -1,0 +1,4 @@
+dist
+coverage
+dist_test
+node_modules/*
